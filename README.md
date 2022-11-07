@@ -6,5 +6,5 @@ This project is the implementation of the anomaly detection algorithm presented 
 The repository contains the following files:
 - bidmc.m, capobase.m, nonin.m: experiment executed on different datasets.
 - analysis.m: empirical analysis and comparisons between the experiments.
-- Xpod: directory containing the dataset acquired by me using an Xpod External OEM Pulse Oximeter.
+- Xpod: directory containing the dataset acquired by me using a Nonin Xpod External OEM Pulse Oximeter.
 - Teresa Tanzi - Presentazione BSP.pdf: pdf of the presentation I used to expose my project during the exam.
